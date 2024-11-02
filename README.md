@@ -1,5 +1,5 @@
 WEB M1 --> HTML  + CSS
-=======
+========
 Cahier des charges
 -----------
 Vous êtes developpeur au sein de la société CielWeb. Vous êtes chargé de créer un site web sur le thème du running...
